@@ -1,14 +1,8 @@
-# MarkdownDemo1
+## Images
 
-Så sætter du dig bare til rette. Læs denne med omhu og fingrene væk fra kommentarfeltet. 
+![Ralle]([https://www.google.com/search?client=safari&sca_esv=563011930&rls=en&sxsrf=AB5stBjpUT-cCYcI-Hka92n0qVbeWpnHYA:1693988583668&q=golfbanens+skr%C3%A6k&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjewKGex5WBAxUecvEDHcR7BuoQ0pQJegQIDhAB&biw=1512&bih=811&dpr=2#imgrc=M2mZZxd_SuX2lM](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.netflix.com%2Fdk%2Ftitle%2F70000794&psig=AOvVaw333mI2SUDob07txQMuYbWQ&ust=1694074986054000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJCx7Z_HlYEDFQAAAAAdAAAAABAE))
 
-## Er du klar? 
-Skru op for lyden og skub til taget som Kato 
 
-### Hvad så nu? 
-Nu har du skubbet længe nok til taget og holdt fingrene væk kommentarfeltet. Dygtig 
-
-## Tak for denne gang 
 
 ## Tabel over GOLF
 
